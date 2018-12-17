@@ -1,0 +1,45 @@
+.sec-price {
+	padding: 180px 0;
+	flex-direction: column;
+}
+
+table {
+	width: 80%;
+	    margin: 35px auto;
+}
+
+th, td {
+	    padding: 10px 0;
+}
+
+td {
+	background: #adadad2e;
+}
+
+.button {
+	width: 40%;
+	text-align: center;
+	align-self: center;
+}
+
+.train-img {
+	width: 40vw;
+    border: 2px solid #ccc;
+    padding: 20px;
+    margin: 10px;
+}
+
+.et_pb_text_inner {
+	padding: 10px 20px;
+}
+
+.seec {
+	display: flex;
+    background: #1f1c1c42;
+    box-shadow: aliceblue;
+    box-shadow: inset 0px 0px 50px 4px rgba(0,0,0,0.75);
+}
+
+.et_pb_text_inner p {
+	margin-top: 10px;
+}
